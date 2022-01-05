@@ -1,0 +1,23 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../braiNIAC.gen/sources_1/ip/bram_8x65k/sim/bram_8x65k.v" \
+"../../../../braiNIAC.gen/sources_1/ip/FIFO/sim/FIFO.v" \
+"../../../../braiNIAC.gen/sources_1/ip/brom_8x65k/sim/brom_8x65k.v" \
+"../../../../braiNIAC.srcs/sources_1/new/brainiac.v" \
+"../../../../braiNIAC.srcs/sources_1/imports/BaseModules/reg_nb_sync_clr_v1_01.v" \
+"../../../../braiNIAC.srcs/sources_1/imports/BaseModules/mux_4t1_nb_v1_06.v" \
+"../../../../braiNIAC.srcs/sources_1/new/fsm.v" \
+"../../../../braiNIAC.srcs/sources_1/new/lifo2.v" \
+"../../../../braiNIAC.srcs/sources_1/imports/BaseModules/clk_2n_div_test_v1_01.v" \
+"../../../../braiNIAC.srcs/sources_1/imports/BaseModules/univ_sseg_v1_05.v" \
+"../../../../braiNIAC.srcs/sources_1/new/top.v" \
+"../../../../braiNIAC.srcs/sources_1/new/input_buffer.v" \
+"../../../../braiNIAC.srcs/sim_1/new/tb_rom.v" \
+"../../../../braiNIAC.srcs/sim_1/new/tb_brainiac.v" \
+"../../../../braiNIAC.srcs/sim_1/imports/new/tb_lifo.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

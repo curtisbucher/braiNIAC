@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_brainiac_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_brainiac" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="33121fs"></ZoomEndTime>
+      <Cursor1Time time="0fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="266"></NameColumnWidth>
+      <ValueColumnWidth column_width="116"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="56" />
+   <wave_markers>
+      <marker time="21000" label="" />
+      <marker time="69000" label="" />
+   </wave_markers>
+   <wvobject fp_name="/tb_brainiac/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider72">
+      <obj_property name="label">SIGNALS</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="group107" type="group">
+      <obj_property name="label">PC</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="group23" type="group">
+      <obj_property name="label">State</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="group66" type="group">
+      <obj_property name="label">STACK</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <wvobject fp_name="group435" type="group">
+         <obj_property name="label">Stack</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group24" type="group">
+      <obj_property name="label">TAPE</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="group465" type="group">
+      <obj_property name="label">DEPTH</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="group32" type="group">
+      <obj_property name="label">PM</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="group67" type="group">
+      <obj_property name="label">OUT REG</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="group99" type="group">
+      <obj_property name="label">MUX</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider372">
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/IN" type="array">
+      <obj_property name="ElementShortName">IN[7:0]</obj_property>
+      <obj_property name="ObjectShortName">IN[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/INPUT" type="logic">
+      <obj_property name="ElementShortName">INPUT</obj_property>
+      <obj_property name="ObjectShortName">INPUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/input_empty" type="logic">
+      <obj_property name="ElementShortName">input_empty</obj_property>
+      <obj_property name="ObjectShortName">input_empty</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/OUT" type="array">
+      <obj_property name="ElementShortName">OUT[7:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/OUTPUT" type="logic">
+      <obj_property name="ElementShortName">OUTPUT</obj_property>
+      <obj_property name="ObjectShortName">OUTPUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/PC_cnt" type="array">
+      <obj_property name="ElementShortName">PC_cnt[15:0]</obj_property>
+      <obj_property name="ObjectShortName">PC_cnt[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/ST_top" type="array">
+      <obj_property name="ElementShortName">ST_top[15:0]</obj_property>
+      <obj_property name="ObjectShortName">ST_top[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/DEPTH_cnt" type="array">
+      <obj_property name="ElementShortName">DEPTH_cnt[15:0]</obj_property>
+      <obj_property name="ObjectShortName">DEPTH_cnt[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/TP_addr" type="array">
+      <obj_property name="ElementShortName">TP_addr[15:0]</obj_property>
+      <obj_property name="ObjectShortName">TP_addr[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/TP_din" type="array">
+      <obj_property name="ElementShortName">TP_din[7:0]</obj_property>
+      <obj_property name="ObjectShortName">TP_din[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/DATA" type="array">
+      <obj_property name="ElementShortName">DATA[7:0]</obj_property>
+      <obj_property name="ObjectShortName">DATA[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/PC_clr" type="logic">
+      <obj_property name="ElementShortName">PC_clr</obj_property>
+      <obj_property name="ObjectShortName">PC_clr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/PC_ld" type="logic">
+      <obj_property name="ElementShortName">PC_ld</obj_property>
+      <obj_property name="ObjectShortName">PC_ld</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/PC_en" type="logic">
+      <obj_property name="ElementShortName">PC_en</obj_property>
+      <obj_property name="ObjectShortName">PC_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/PC_up" type="logic">
+      <obj_property name="ElementShortName">PC_up</obj_property>
+      <obj_property name="ObjectShortName">PC_up</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/ST_rst" type="logic">
+      <obj_property name="ElementShortName">ST_rst</obj_property>
+      <obj_property name="ObjectShortName">ST_rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/ST_pop" type="logic">
+      <obj_property name="ElementShortName">ST_pop</obj_property>
+      <obj_property name="ObjectShortName">ST_pop</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/ST_psh" type="logic">
+      <obj_property name="ElementShortName">ST_psh</obj_property>
+      <obj_property name="ObjectShortName">ST_psh</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/ST_emp" type="logic">
+      <obj_property name="ElementShortName">ST_emp</obj_property>
+      <obj_property name="ObjectShortName">ST_emp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/ST_full" type="logic">
+      <obj_property name="ElementShortName">ST_full</obj_property>
+      <obj_property name="ObjectShortName">ST_full</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/DEPTH_clr" type="logic">
+      <obj_property name="ElementShortName">DEPTH_clr</obj_property>
+      <obj_property name="ObjectShortName">DEPTH_clr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/DEPTH_en" type="logic">
+      <obj_property name="ElementShortName">DEPTH_en</obj_property>
+      <obj_property name="ObjectShortName">DEPTH_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/DEPTH_up" type="logic">
+      <obj_property name="ElementShortName">DEPTH_up</obj_property>
+      <obj_property name="ObjectShortName">DEPTH_up</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/HD_clr" type="logic">
+      <obj_property name="ElementShortName">HD_clr</obj_property>
+      <obj_property name="ObjectShortName">HD_clr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/HD_up" type="logic">
+      <obj_property name="ElementShortName">HD_up</obj_property>
+      <obj_property name="ObjectShortName">HD_up</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/HD_en" type="logic">
+      <obj_property name="ElementShortName">HD_en</obj_property>
+      <obj_property name="ObjectShortName">HD_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/TP_we" type="logic">
+      <obj_property name="ElementShortName">TP_we</obj_property>
+      <obj_property name="ObjectShortName">TP_we</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/TP_rst_busy" type="logic">
+      <obj_property name="ElementShortName">TP_rst_busy</obj_property>
+      <obj_property name="ObjectShortName">TP_rst_busy</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/OUT_ld" type="logic">
+      <obj_property name="ElementShortName">OUT_ld</obj_property>
+      <obj_property name="ObjectShortName">OUT_ld</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/OUT_clr" type="logic">
+      <obj_property name="ElementShortName">OUT_clr</obj_property>
+      <obj_property name="ObjectShortName">OUT_clr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/INSTR" type="array">
+      <obj_property name="ElementShortName">INSTR[2:0]</obj_property>
+      <obj_property name="ObjectShortName">INSTR[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/TM_sel" type="array">
+      <obj_property name="ElementShortName">TM_sel[1:0]</obj_property>
+      <obj_property name="ObjectShortName">TM_sel[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/PS_dbg" type="array">
+      <obj_property name="ElementShortName">PS_dbg[3:0]</obj_property>
+      <obj_property name="ObjectShortName">PS_dbg[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/FSM/PS" type="array">
+      <obj_property name="ElementShortName">PS[3:0]</obj_property>
+      <obj_property name="ObjectShortName">PS[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/FSM/NS" type="array">
+      <obj_property name="ElementShortName">NS[3:0]</obj_property>
+      <obj_property name="ObjectShortName">NS[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/INPUT_BUFFER/data_in" type="array">
+      <obj_property name="ElementShortName">data_in[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data_in[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/INPUT_BUFFER/push" type="logic">
+      <obj_property name="ElementShortName">push</obj_property>
+      <obj_property name="ObjectShortName">push</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/INPUT_BUFFER/INPUT" type="logic">
+      <obj_property name="ElementShortName">INPUT</obj_property>
+      <obj_property name="ObjectShortName">INPUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/INPUT_BUFFER/IN" type="array">
+      <obj_property name="ElementShortName">IN[7:0]</obj_property>
+      <obj_property name="ObjectShortName">IN[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/INPUT_BUFFER/empty" type="logic">
+      <obj_property name="ElementShortName">empty</obj_property>
+      <obj_property name="ObjectShortName">empty</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/INPUT_BUFFER/wr_en" type="logic">
+      <obj_property name="ElementShortName">wr_en</obj_property>
+      <obj_property name="ObjectShortName">wr_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/test_in" type="array">
+      <obj_property name="ElementShortName">test_in[7:0]</obj_property>
+      <obj_property name="ObjectShortName">test_in[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/test_input" type="logic">
+      <obj_property name="ElementShortName">test_input</obj_property>
+      <obj_property name="ObjectShortName">test_input</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_brainiac/top/BRAIN/FSM/input_empty" type="logic">
+      <obj_property name="ElementShortName">input_empty</obj_property>
+      <obj_property name="ObjectShortName">input_empty</obj_property>
+   </wvobject>
+</wave_config>

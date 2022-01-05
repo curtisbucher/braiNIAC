@@ -1,0 +1,34 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.gen/sources_1/ip/bram_8x65k/sim/bram_8x65k.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bram_8x65k
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.gen/sources_1/ip/FIFO/sim/FIFO.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FIFO
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.gen/sources_1/ip/brom_8x65k/sim/brom_8x65k.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module brom_8x65k
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/new/brainiac.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module brainiac
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/imports/BaseModules/reg_nb_sync_clr_v1_01.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module reg_nb_sclr
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/imports/BaseModules/mux_4t1_nb_v1_06.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_4t1_nb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/new/fsm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fsm
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/new/lifo2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lifo2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/imports/BaseModules/clk_2n_div_test_v1_01.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_2n_div_test
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/imports/BaseModules/univ_sseg_v1_05.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module univ_sseg
+INFO: [VRFC 10-2458] undeclared symbol sclk, assumed default net type wire [C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/imports/BaseModules/univ_sseg_v1_05.v:120]
+INFO: [VRFC 10-311] analyzing module clk_divder
+INFO: [VRFC 10-311] analyzing module cnt_convert_14b
+INFO: [VRFC 10-311] analyzing module cnt_convert_7b
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/new/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/new/input_buffer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module input_buffer
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sim_1/new/tb_rom.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_rom
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sim_1/new/tb_brainiac.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_brainiac
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sim_1/imports/new/tb_lifo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_lifo

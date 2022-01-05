@@ -1,0 +1,25 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.gen/sources_1/ip/FIFO/sim/FIFO.v,1640546335,verilog,,C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.gen/sources_1/ip/brom_8x65k/sim/brom_8x65k.v,,FIFO,,,,,,,,
+C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.gen/sources_1/ip/bram_8x65k/sim/bram_8x65k.v,1638572764,verilog,,C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.gen/sources_1/ip/FIFO/sim/FIFO.v,,bram_8x65k,,,,,,,,
+C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.gen/sources_1/ip/brom_8x65k/sim/brom_8x65k.v,1640399245,verilog,,C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/new/brainiac.v,,brom_8x65k,,,,,,,,
+C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.gen/sources_1/ip/counter/sim/counter.vhd,1637554494,vhdl,,,,counter,,,,,,,,
+C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sim_1/imports/new/tb_lifo.v,1637539283,verilog,,,,tb_lifo,,,,,,,,
+C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sim_1/new/tb_brainiac.v,1640546040,verilog,,C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sim_1/imports/new/tb_lifo.v,,tb_brainiac,,,,,,,,
+C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sim_1/new/tb_rom.v,1637531217,verilog,,C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sim_1/new/tb_brainiac.v,,tb_rom,,,,,,,,
+C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/imports/BaseModules/clk_2n_div_test_v1_01.v,1633977925,verilog,,C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/imports/BaseModules/univ_sseg_v1_05.v,,clk_2n_div_test,,,,,,,,
+C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/imports/BaseModules/mux_4t1_nb_v1_06.v,1633977935,verilog,,C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/new/fsm.v,,mux_4t1_nb,,,,,,,,
+C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/imports/BaseModules/reg_nb_sync_clr_v1_01.v,1636405642,verilog,,C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/imports/BaseModules/mux_4t1_nb_v1_06.v,,reg_nb_sclr,,,,,,,,
+C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/imports/BaseModules/univ_sseg_v1_05.v,1633977922,verilog,,C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/new/top.v,,clk_divder;cnt_convert_14b;cnt_convert_7b;univ_sseg,,,,,,,,
+C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/imports/Desktop/UART.vhd,1640296617,vhdl,,,,uart,,,,,,,,
+C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/imports/Desktop/UART_rx.vhd,1640296602,vhdl,,,,uart_rx,,,,,,,,
+C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/imports/Desktop/UART_tx.vhd,1604028800,vhdl,,,,uart_tx,,,,,,,,
+C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/imports/Desktop/button_debounce.vhd,1604028800,vhdl,,,,button_debounce,,,,,,,,
+C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/new/brainiac.v,1640547175,verilog,,C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/imports/BaseModules/reg_nb_sync_clr_v1_01.v,,brainiac,,,,,,,,
+C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/new/fsm.v,1640544215,verilog,,C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/new/lifo2.v,,fsm,,,,,,,,
+C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/new/input_buffer.v,1640547949,verilog,,C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sim_1/new/tb_rom.v,,input_buffer,,,,,,,,
+C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/new/lifo2.v,1639447046,verilog,,C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/imports/BaseModules/clk_2n_div_test_v1_01.v,,lifo2,,,,,,,,
+C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/new/top.v,1640547157,verilog,,C:/Users/Curtis Bucher/OneDrive - Cal Poly/braiNIAC/braiNIAC.srcs/sources_1/new/input_buffer.v,,top,,,,,,,,

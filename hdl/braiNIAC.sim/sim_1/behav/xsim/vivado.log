@@ -1,0 +1,19 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Fri Dec  3 14:21:53 2021
+# Process ID: 14864
+# Current directory: C:/Users/Curtis Bucher/OneDrive - Cal Poly/CPE 133/VivadoProjects/braiNIAC/braiNIAC.sim/sim_1/behav/xsim
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent13252 C:\Users\Curtis Bucher\OneDrive - Cal Poly\CPE 133\VivadoProjects\braiNIAC\braiNIAC.sim\sim_1\behav\xsim\tb_brainiac_behav.wdb
+# Log file: C:/Users/Curtis Bucher/OneDrive - Cal Poly/CPE 133/VivadoProjects/braiNIAC/braiNIAC.sim/sim_1/behav/xsim/vivado.log
+# Journal file: C:/Users/Curtis Bucher/OneDrive - Cal Poly/CPE 133/VivadoProjects/braiNIAC/braiNIAC.sim/sim_1/behav/xsim\vivado.jou
+#-----------------------------------------------------------sstart_guioopen_wave_database {C:\Users\Curtis Bucher\OneDrive - Cal Poly\CPE 133\VivadoProjects\braiNIAC\braiNIAC.sim\sim_1\behav\xsim\tb_brainiac_behav.wdb}
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.ccurrent_fileset: Time (s): cpu = 00:00:14 ; elapsed = 00:00:16 . Memory (MB): peak = 1006.887 ; gain = 0.000
+open_wave_database: Time (s): cpu = 00:00:20 ; elapsed = 00:00:19 . Memory (MB): peak = 1006.887 ; gain = 0.000aclose_sim
+INFO: [Simtcl 6-16] Simulation closed
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri Dec  3 14:26:10 2021...
+ Exiting Vivado at Fri Dec  3 14:23:40 2021...

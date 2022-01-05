@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../braiNIAC.gen/sources_1/ip/counter/sim/counter.vhd" \
+"../../../../braiNIAC.srcs/sources_1/imports/Desktop/UART.vhd" \
+"../../../../braiNIAC.srcs/sources_1/imports/Desktop/UART_rx.vhd" \
+"../../../../braiNIAC.srcs/sources_1/imports/Desktop/UART_tx.vhd" \
+"../../../../braiNIAC.srcs/sources_1/imports/Desktop/button_debounce.vhd" \
+
+# Do not sort compile order
+nosort

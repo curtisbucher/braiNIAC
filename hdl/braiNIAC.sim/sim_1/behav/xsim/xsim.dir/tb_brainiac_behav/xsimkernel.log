@@ -1,0 +1,4 @@
+Running: xsim.dir/tb_brainiac_behav/xsimk.exe -simmode gui -wdb tb_brainiac_behav.wdb -simrunnum 0 -socket 57577
+Design successfully loaded
+Design Loading Memory Usage: 7460 KB (Peak: 7460 KB)
+Design Loading CPU Usage: 30 ms
